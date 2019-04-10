@@ -27,4 +27,4 @@
 ## example
 
 - [python](https://github.com/dubbo-x/grpc/tree/master/python)
-- [go](hhttps://github.com/dubbo-x/grpc/tree/master/go)
+- [go](https://github.com/dubbo-x/grpc/tree/master/go)
