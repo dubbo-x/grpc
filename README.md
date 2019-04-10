@@ -26,5 +26,5 @@
 
 ## example
 
-- [python -> python](https://github.com/gaoxinge/something/tree/master/grpc/example1)
-- [go -> go](https://github.com/gaoxinge/something/tree/master/grpc/example2)
+- [python](https://github.com/dubbo-x/grpc/tree/master/python)
+- [go](hhttps://github.com/dubbo-x/grpc/tree/master/go)
