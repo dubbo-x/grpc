@@ -1,6 +1,6 @@
 import grpc
 from google.protobuf import struct_pb2
-from protos import data_pb2, data_pb2_grpc
+from example import data_pb2, data_pb2_grpc
 
 
 def run():

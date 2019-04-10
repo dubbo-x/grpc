@@ -1,7 +1,7 @@
 import grpc
 import time
 from concurrent import futures
-from protos import data_pb2, data_pb2_grpc
+from example import data_pb2, data_pb2_grpc
 
 
 class Router(data_pb2_grpc.RouterServicer):
