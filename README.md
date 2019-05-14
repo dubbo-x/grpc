@@ -28,9 +28,9 @@
 
 ## example
 
-- [python](https://github.com/dubbo-x/grpc/tree/master/python)
-- [go](https://github.com/dubbo-x/grpc/tree/master/go)
+- [python](https://github.com/dubbo-x/grpc/tree/master/grpc/python)
+- [go](https://github.com/dubbo-x/grpc/tree/master/grpc/go)
 
 ## balancer
 
-- [gRPC源码/负载均衡](https://segmentfault.com/a/1190000015231956)
+- [go](https://github.com/dubbo-x/grpc/tree/master/balancer/go)
