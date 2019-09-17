@@ -1,0 +1,3 @@
+## python
+
+- [Is there any plan for Python gRPC nameresolver interface?](https://github.com/grpc/grpc/issues/11685)
