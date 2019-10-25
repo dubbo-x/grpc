@@ -34,6 +34,7 @@
 
 - [python](https://github.com/dubbo-x/grpc/tree/master/grpc/python)
 - [go](https://github.com/dubbo-x/grpc/tree/master/grpc/go)
+- [common](https://github.com/dubbo-x/grpc/tree/master/grpc/common)
 
 ## dial_option
 
